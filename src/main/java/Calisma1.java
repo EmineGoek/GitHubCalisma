@@ -3,5 +3,8 @@ public class Calisma1 {
         System.out.println("Calisma1");
         System.out.println("Emine");
         System.out.println("Emine01");
+
+
+        System.out.println("murat");
     }
 }
